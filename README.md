@@ -1,3 +1,5 @@
+> **This repository has moved.** AISentry now lives in [thatsuperdev/ai-skills → `ai-sentry/`](https://github.com/thatsuperdev/ai-skills/tree/main/ai-sentry), with its full history, as an agent skill plus the app. This repo is archived. The hosted site and installer (`https://aisentry.netlify.app`) are unchanged.
+
 # AISentry
 
 Real-time monitoring for every AI coding agent on your machine — Claude Code, Codex, Gemini CLI, Aider, Cursor, and more.
